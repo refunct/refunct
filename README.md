@@ -1,0 +1,6 @@
+- :wave: Привет! Меня зовут @refunct
+- :eyes: Мне интересны новые проекты, если вам есть что предложить, жду вас в телеграме [webauthor](https://t.me/webauthor "webauthor")
+- :school: Сейчас учусь по специальности АСОиУ, и должен закончить в 2022 году
+- :computer: Занимаюсь web разработкой.
+- :star: Мои навыки: PHP, Javascript, HTML, CSS, Docker, Git
+- :camera: Еще веду свой YouTube канал [REFUNCT](https://www.youtube.com/channel/UC3Q_N1wUw1suldnpFJgQzUQ "REFUNCT")
