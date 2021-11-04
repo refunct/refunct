@@ -1,5 +1,5 @@
 - :wave: Привет! Меня зовут [@refunct](https://github.com/refunct "@refunct")
-- :eyes: Мне интересны новые проекты, если вам есть что предложить, жду вас в телеграме [webauthor](https://t.me/webauthor "webauthor")
+- :eyes: Мне интересны новые проекты, если вам есть что предложить, жду вас в телеграме [refunct](https://t.me/refunct "refunct")
 - :school: Сейчас учусь по специальности АСОиУ, и должен закончить в 2022 году
 - :computer: Занимаюсь web разработкой.
 - :star: Мои навыки: PHP, Javascript, HTML, CSS, Docker, Git
